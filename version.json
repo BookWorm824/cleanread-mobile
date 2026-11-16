@@ -1,0 +1,8 @@
+{
+  "versionCode": 16,
+  "versionName": "0.6.4",
+  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.4/CleanRead-Mobile-0.6.4.apk",
+  "bytes": 95609672,
+  "sha256": "01197ffa8ab52bf13655309f4b8e552a569d4adcc3f6d49d4c834aa9b4f058f7",
+  "notes": "a Listen button, reading that keeps going on the shelf, John and Bryce with a speed control, and a crash fix"
+}
