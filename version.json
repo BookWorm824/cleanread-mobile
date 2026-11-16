@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "0.6.4",
-  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.4/CleanRead-Mobile-0.6.4.apk",
-  "bytes": 95609412,
-  "sha256": "a46e8f60408b95ce593bbef0f0fcc38d5427cd100719395811dcd60710aa3add",
-  "notes": "a Listen button, reading that keeps going on the shelf, John and Bryce with a speed control, and a crash fix"
+  "versionCode": 17,
+  "versionName": "0.6.5",
+  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.5/CleanRead-Mobile-0.6.5.apk",
+  "bytes": 95615404,
+  "sha256": "d7446c607ad31f9be7541b162fcb2d199834db4af438a985cd093690345b644a",
+  "notes": "reading aloud now reads only the story, without title pages, forewords, notes or chapter names"
 }
