@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "0.6.5",
-  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.5/CleanRead-Mobile-0.6.5.apk",
-  "bytes": 95615404,
-  "sha256": "d7446c607ad31f9be7541b162fcb2d199834db4af438a985cd093690345b644a",
-  "notes": "reading aloud now reads only the story, without title pages, forewords, notes or chapter names"
+  "versionCode": 18,
+  "versionName": "0.6.6",
+  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.6/CleanRead-Mobile-0.6.6.apk",
+  "bytes": 95617492,
+  "sha256": "4debab7cc303ee23be0cebe9a58fec72ebd7e01c01fbf20538e12f5590cc6f4c",
+  "notes": "reading aloud starts much sooner, and the volume buttons change the book's volume instead of the ringer"
 }
