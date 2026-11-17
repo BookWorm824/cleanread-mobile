@@ -1,8 +1,8 @@
 {
-  "versionCode": 34,
-  "versionName": "0.6.22",
-  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.22/CleanRead-Mobile-0.6.22.apk",
-  "bytes": 102260192,
-  "sha256": "1caee7ce592f2d05264863fe8fa3e886dc88c7a70a7d23edc6f53436db81e01d",
-  "notes": "The Swiss Family Robinson is now on the free classics shelf"
+  "versionCode": 35,
+  "versionName": "0.6.23",
+  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.23/CleanRead-Mobile-0.6.23.apk",
+  "bytes": 94731509,
+  "sha256": "f27c8e0996a2f548991d7e6e31f4d008ecaf11e5893a592d17905278db5ab5f3",
+  "notes": "Free classics are now a list to choose from, and no more hiccup at the start of new paragraphs"
 }
