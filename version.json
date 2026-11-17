@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "0.6.11",
-  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.11/CleanRead-Mobile-0.6.11.apk",
-  "bytes": 96103993,
-  "sha256": "08b45a27bb424d57e44cbe693ec232c97aebab3d9814494f038014cf5c204456",
-  "notes": "book covers show whole with their titles, and Resume reading lists every book you're part-way through"
+  "versionCode": 24,
+  "versionName": "0.6.12",
+  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.12/CleanRead-Mobile-0.6.12.apk",
+  "bytes": 96106921,
+  "sha256": "4ac5238c4e42a067f87446b24bfdf32fa201982be39f9eaff019849ee5fb97f3",
+  "notes": "the pull-down bar shows the book's cover and the CleanRead icon"
 }
