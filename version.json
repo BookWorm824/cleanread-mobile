@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "0.6.8",
-  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.8/CleanRead-Mobile-0.6.8.apk",
-  "bytes": 95625348,
-  "sha256": "2dce26a21d5f2f30082fe1244b3b37763e8c81929e3506b892124cf163a768b8",
-  "notes": "reading aloud is smoother between paragraphs, and while it reads there's a bar in the pull-down shade with Back, Pause/Play, Next and Stop"
+  "versionCode": 21,
+  "versionName": "0.6.9",
+  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.9/CleanRead-Mobile-0.6.9.apk",
+  "bytes": 95627008,
+  "sha256": "5d594ca28d8a0993476ad3a384d17cac0d450f10ba2934851e496c3563d78134",
+  "notes": "1x is now each voice's usual speed, and changing the speed keeps your place instead of starting the paragraph over"
 }
