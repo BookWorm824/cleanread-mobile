@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
-  "versionName": "0.6.16",
-  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.16/CleanRead-Mobile-0.6.16.apk",
-  "bytes": 97926508,
-  "sha256": "40d550e6936be5c6344170f6ff28adabe733944443ab45a9fa7f538a24e1152f",
-  "notes": "Pollyanna is now on the free classics shelf"
+  "versionCode": 29,
+  "versionName": "0.6.17",
+  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.17/CleanRead-Mobile-0.6.17.apk",
+  "bytes": 98441971,
+  "sha256": "5c76ca1b315b6e105927afa33fc865cdb5856bf4cee0c0b3516bf4971b6d0e84",
+  "notes": "Treasure Island is now on the free classics shelf"
 }
