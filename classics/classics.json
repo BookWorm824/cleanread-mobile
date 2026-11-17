@@ -1,0 +1,105 @@
+{
+ "format": "cleanread-classics",
+ "version": 1,
+ "books": [
+  {
+   "file": "black-beauty.cleanshelf",
+   "title": "Black Beauty",
+   "author": "Anna Sewell",
+   "about": "A gentle horse tells the story of his life, his friends and the people who cared for him (and some who didn't).",
+   "cleaned_for": "Cleaned for Kids: 26 words marked out, 3 lines taken out.",
+   "bytes": 668221,
+   "sha1": "1d0650ba2db0ab1b8d14532d65fb5ab148e9cddf"
+  },
+  {
+   "file": "eleanor-h-porter_pollyanna.cleanshelf",
+   "title": "Pollyanna",
+   "author": "Eleanor H. Porter",
+   "about": "An orphan girl comes to live with her stern aunt and cheers up a whole town with her \"glad game\".",
+   "cleaned_for": "Cleaned for Kids: 2 words marked out, 2 passages or lines taken out.",
+   "bytes": 480777,
+   "sha1": "3b0df12753c2ff001923f956340ca39755df6609"
+  },
+  {
+   "file": "frances-hodgson-burnett_a-little-princess.cleanshelf",
+   "title": "A Little Princess",
+   "author": "Frances Hodgson Burnett",
+   "about": "Sara is the richest girl at her boarding school until she loses everything, and stays kind anyway.",
+   "cleaned_for": "Cleaned for Kids: 14 words marked out, 9 passages or lines taken out.",
+   "bytes": 447368,
+   "sha1": "eca64b2beff5d19d778bf3eb182baf1ea8dbebce"
+  },
+  {
+   "file": "frances-hodgson-burnett_the-secret-garden.cleanshelf",
+   "title": "The Secret Garden",
+   "author": "Frances Hodgson Burnett",
+   "about": "A lonely, spoiled girl finds a locked-up garden and brings it, and her sickly cousin, back to life.",
+   "cleaned_for": "Cleaned for Kids: 13 words marked out, 13 passages or lines taken out.",
+   "bytes": 491202,
+   "sha1": "67338e38bc4c2ab05878657a2f01fca694d9b7af"
+  },
+  {
+   "file": "johann-david-wyss_the-swiss-family-robinson_mary-jane-godwin_william-godwin.cleanshelf",
+   "title": "The Swiss Family Robinson",
+   "author": "Johann David Wyss",
+   "about": "A shipwrecked family builds a new life on a wild island, with a treehouse, animals and plenty of invention.",
+   "cleaned_for": "Cleaned for Kids: 12 words marked out, 57 passages or lines taken out.",
+   "bytes": 1225487,
+   "sha1": "994c0f821642b774d91c8aa464014542d195b5cf"
+  },
+  {
+   "file": "johanna-spyri_heidi_elisabeth-p-stork.cleanshelf",
+   "title": "Heidi",
+   "author": "Johanna Spyri",
+   "about": "A little girl goes to live with her grandfather high in the Swiss mountains and wins everyone's heart.",
+   "cleaned_for": "Cleaned for Kids: 5 words marked out, 12 passages or lines taken out.",
+   "bytes": 634898,
+   "sha1": "830bdaf7be5ba4d394d9c1aa8f297ac922c0ed06"
+  },
+  {
+   "file": "kenneth-grahame_the-wind-in-the-willows.cleanshelf",
+   "title": "The Wind in the Willows",
+   "author": "Kenneth Grahame",
+   "about": "Mole, Rat, Badger and the boastful Mr. Toad have adventures along the river.",
+   "cleaned_for": "Cleaned for Kids: 18 words marked out, 12 passages or lines taken out.",
+   "bytes": 532889,
+   "sha1": "c66be1e5a1880feb472f217ec88f927db78abd1a"
+  },
+  {
+   "file": "l-m-montgomery_anne-of-green-gables.cleanshelf",
+   "title": "Anne of Green Gables",
+   "author": "L. M. Montgomery",
+   "about": "A chatty, red-haired orphan is sent by mistake to a quiet brother and sister on Prince Edward Island.",
+   "cleaned_for": "Cleaned for Kids: 17 words marked out, 36 passages or lines taken out.",
+   "bytes": 641982,
+   "sha1": "c7c8209e6ad26d1438edcd7ef07934ec743a3061"
+  },
+  {
+   "file": "louisa-may-alcott_little-women.cleanshelf",
+   "title": "Little Women",
+   "author": "Louisa May Alcott",
+   "about": "Four sisters, Meg, Jo, Beth and Amy, grow up together while their father is away.",
+   "cleaned_for": "Cleaned for Kids: 40 words marked out, 45 passages or lines taken out.",
+   "bytes": 781868,
+   "sha1": "d3de96d96a8f34a02f54b84355357daf5312b044"
+  },
+  {
+   "file": "robert-louis-stevenson_treasure-island.cleanshelf",
+   "title": "Treasure Island",
+   "author": "Robert Louis Stevenson",
+   "about": "Young Jim Hawkins finds a treasure map and sails off with a crew that includes the pirate Long John Silver.",
+   "cleaned_for": "Cleaned for Kids: 20 words marked out, 110 passages or lines taken out.",
+   "bytes": 515259,
+   "sha1": "faa9e30e9a1be8c68f582f0cf3f888c770866f75"
+  },
+  {
+   "file": "the-railway-children.cleanshelf",
+   "title": "The Railway Children",
+   "author": "E. Nesbit",
+   "about": "Three children move to the country, make friends at the railway station and hope to bring their father home.",
+   "cleaned_for": "Cleaned for Kids with CleanRead.",
+   "bytes": 474772,
+   "sha1": "d8020556ec5e97063c34d1d292e2192144da52aa"
+  }
+ ]
+}
