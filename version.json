@@ -1,8 +1,8 @@
 {
-  "versionCode": 35,
-  "versionName": "0.6.23",
-  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.23/CleanRead-Mobile-0.6.23.apk",
-  "bytes": 94731509,
-  "sha256": "f27c8e0996a2f548991d7e6e31f4d008ecaf11e5893a592d17905278db5ab5f3",
-  "notes": "Free classics are now a list to choose from, and no more hiccup at the start of new paragraphs"
+  "versionCode": 36,
+  "versionName": "0.6.24",
+  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.24/CleanRead-Mobile-0.6.24.apk",
+  "bytes": 94793681,
+  "sha256": "84f165c625054d5279bc3bdc4062856fac2dd914d8a68fee3f6e4e71252a2a1b",
+  "notes": "A softer top shelf on the bookcase, and Free classics offers the cleaned copy of a book you already have as Words only"
 }
