@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "0.6.10",
-  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.10/CleanRead-Mobile-0.6.10.apk",
-  "bytes": 96101957,
-  "sha256": "e483152ef6931e1576483cb725ff346c24bd343336c5a8bfa7f557f285d9f687",
-  "notes": "The Railway Children is now on the free classics shelf"
+  "versionCode": 23,
+  "versionName": "0.6.11",
+  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.11/CleanRead-Mobile-0.6.11.apk",
+  "bytes": 96103993,
+  "sha256": "08b45a27bb424d57e44cbe693ec232c97aebab3d9814494f038014cf5c204456",
+  "notes": "book covers show whole with their titles, and Resume reading lists every book you're part-way through"
 }
