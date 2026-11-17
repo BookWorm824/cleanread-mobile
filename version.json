@@ -1,8 +1,8 @@
 {
-  "versionCode": 18,
-  "versionName": "0.6.6",
-  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.6/CleanRead-Mobile-0.6.6.apk",
-  "bytes": 95617492,
-  "sha256": "4debab7cc303ee23be0cebe9a58fec72ebd7e01c01fbf20538e12f5590cc6f4c",
-  "notes": "reading aloud starts much sooner, and the volume buttons change the book's volume instead of the ringer"
+  "versionCode": 19,
+  "versionName": "0.6.7",
+  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.7/CleanRead-Mobile-0.6.7.apk",
+  "bytes": 95620088,
+  "sha256": "94fca33c67e2db4c28c98722e8dafe2bfe206e1fbf6d36e26920a8da6c2a1005",
+  "notes": "turning the parent lock off now needs the code, and a forgotten code can be reset"
 }
