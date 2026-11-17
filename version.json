@@ -1,8 +1,8 @@
 {
-  "versionCode": 33,
-  "versionName": "0.6.21",
-  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.21/CleanRead-Mobile-0.6.21.apk",
-  "bytes": 101034420,
-  "sha256": "a6019ec643f392460cdf545b4d0952bbe87521e8f7ea131bac7d3525e5297fef",
-  "notes": "Heidi is now on the free classics shelf"
+  "versionCode": 34,
+  "versionName": "0.6.22",
+  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.22/CleanRead-Mobile-0.6.22.apk",
+  "bytes": 102260192,
+  "sha256": "1caee7ce592f2d05264863fe8fa3e886dc88c7a70a7d23edc6f53436db81e01d",
+  "notes": "The Swiss Family Robinson is now on the free classics shelf"
 }
