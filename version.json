@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "0.6.13",
-  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.13/CleanRead-Mobile-0.6.13.apk",
-  "bytes": 96554503,
-  "sha256": "a274a1585a2733c4d69d4ef2f27fbd2d8f715805a540aba9c7319c99a5e8255b",
-  "notes": "A Little Princess is now on the free classics shelf"
+  "versionCode": 26,
+  "versionName": "0.6.14",
+  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.14/CleanRead-Mobile-0.6.14.apk",
+  "bytes": 97045917,
+  "sha256": "0c1399a7585aaa3f7e227ddc38a12f40e4c8bdac1976033ac735f907d60a8d06",
+  "notes": "The Secret Garden is now on the free classics shelf"
 }
