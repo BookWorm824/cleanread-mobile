@@ -1,8 +1,8 @@
 {
-  "versionCode": 31,
-  "versionName": "0.6.19",
-  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.19/CleanRead-Mobile-0.6.19.apk",
-  "bytes": 99757134,
-  "sha256": "15d696220e2897f728f2984a122b239fa03f836e74763c92ad44cdb5f86f043e",
-  "notes": "Little Women is now on the free classics shelf"
+  "versionCode": 32,
+  "versionName": "0.6.20",
+  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.20/CleanRead-Mobile-0.6.20.apk",
+  "bytes": 100399318,
+  "sha256": "2abdc6e4173a1e55e2762670890c519bb7f5371aea8aa5ccb17c3ad45f3728d5",
+  "notes": "Anne of Green Gables is now on the free classics shelf"
 }
