@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "0.6.9",
-  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.9/CleanRead-Mobile-0.6.9.apk",
-  "bytes": 95627008,
-  "sha256": "5d594ca28d8a0993476ad3a384d17cac0d450f10ba2934851e496c3563d78134",
-  "notes": "1x is now each voice's usual speed, and changing the speed keeps your place instead of starting the paragraph over"
+  "versionCode": 22,
+  "versionName": "0.6.10",
+  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.10/CleanRead-Mobile-0.6.10.apk",
+  "bytes": 96101957,
+  "sha256": "e483152ef6931e1576483cb725ff346c24bd343336c5a8bfa7f557f285d9f687",
+  "notes": "The Railway Children is now on the free classics shelf"
 }
