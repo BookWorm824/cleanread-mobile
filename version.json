@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "0.6.14",
-  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.14/CleanRead-Mobile-0.6.14.apk",
-  "bytes": 97045917,
-  "sha256": "0c1399a7585aaa3f7e227ddc38a12f40e4c8bdac1976033ac735f907d60a8d06",
-  "notes": "The Secret Garden is now on the free classics shelf"
+  "versionCode": 27,
+  "versionName": "0.6.15",
+  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.15/CleanRead-Mobile-0.6.15.apk",
+  "bytes": 97445549,
+  "sha256": "ec897fc134c14f4675457eee2df4993c81664f1faccc0ed5dfe62b794f1b9324",
+  "notes": "The Wonderful Wizard of Oz is now on the free classics shelf"
 }
