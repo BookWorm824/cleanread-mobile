@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "0.6.15",
-  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.15/CleanRead-Mobile-0.6.15.apk",
-  "bytes": 97445549,
-  "sha256": "ec897fc134c14f4675457eee2df4993c81664f1faccc0ed5dfe62b794f1b9324",
-  "notes": "The Wonderful Wizard of Oz is now on the free classics shelf"
+  "versionCode": 28,
+  "versionName": "0.6.16",
+  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.16/CleanRead-Mobile-0.6.16.apk",
+  "bytes": 97926508,
+  "sha256": "40d550e6936be5c6344170f6ff28adabe733944443ab45a9fa7f538a24e1152f",
+  "notes": "Pollyanna is now on the free classics shelf"
 }
