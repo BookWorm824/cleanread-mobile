@@ -43,9 +43,9 @@
    "title": "The Swiss Family Robinson",
    "author": "Johann David Wyss",
    "about": "A shipwrecked family builds a new life on a wild island, with a treehouse, animals and plenty of invention.",
-   "cleaned_for": "Cleaned for Kids: 12 words marked out, 57 passages or lines taken out.",
-   "bytes": 1225487,
-   "sha1": "994c0f821642b774d91c8aa464014542d195b5cf"
+   "cleaned_for": "Cleaned for Kids: 12 words marked out, 64 passages or lines taken out.",
+   "bytes": 1224260,
+   "sha1": "1dc824f5a9bd44e6866be601f7205628caa76df3"
   },
   {
    "file": "johanna-spyri_heidi_elisabeth-p-stork.cleanshelf",
@@ -70,27 +70,27 @@
    "title": "Anne of Green Gables",
    "author": "L. M. Montgomery",
    "about": "A chatty, red-haired orphan is sent by mistake to a quiet brother and sister on Prince Edward Island.",
-   "cleaned_for": "Cleaned for Kids: 17 words marked out, 36 passages or lines taken out.",
-   "bytes": 641982,
-   "sha1": "c7c8209e6ad26d1438edcd7ef07934ec743a3061"
+   "cleaned_for": "Cleaned for Kids: 17 words marked out, 37 passages or lines taken out.",
+   "bytes": 641936,
+   "sha1": "fc130622f30f2be28f75648334016af05c7aeb90"
   },
   {
    "file": "louisa-may-alcott_little-women.cleanshelf",
    "title": "Little Women",
    "author": "Louisa May Alcott",
    "about": "Four sisters, Meg, Jo, Beth and Amy, grow up together while their father is away.",
-   "cleaned_for": "Cleaned for Kids: 40 words marked out, 45 passages or lines taken out.",
-   "bytes": 781868,
-   "sha1": "d3de96d96a8f34a02f54b84355357daf5312b044"
+   "cleaned_for": "Cleaned for Kids: 40 words marked out, 46 passages or lines taken out.",
+   "bytes": 781785,
+   "sha1": "458153717594f485337a5d744e125b5cf832e865"
   },
   {
    "file": "robert-louis-stevenson_treasure-island.cleanshelf",
    "title": "Treasure Island",
    "author": "Robert Louis Stevenson",
    "about": "Young Jim Hawkins finds a treasure map and sails off with a crew that includes the pirate Long John Silver.",
-   "cleaned_for": "Cleaned for Kids: 20 words marked out, 110 passages or lines taken out.",
-   "bytes": 515259,
-   "sha1": "faa9e30e9a1be8c68f582f0cf3f888c770866f75"
+   "cleaned_for": "Cleaned for Kids: 20 words marked out, 119 passages or lines taken out.",
+   "bytes": 514737,
+   "sha1": "ba7488fd2d0c284bcf15d79380e239b6dda6fc37"
   },
   {
    "file": "the-railway-children.cleanshelf",
