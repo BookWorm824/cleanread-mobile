@@ -52,18 +52,18 @@
    "title": "The Story of the Treasure Seekers",
    "author": "E. Nesbit",
    "about": "Six brothers and sisters try every plan they can think of to make their family's fortune.",
-   "cleaned_for": "Cleaned for Kids: 26 words marked out, 47 passages or lines taken out.",
-   "bytes": 413983,
-   "sha1": "af1107d00ddd2a01248917e41e55fb72cfff9155"
+   "cleaned_for": "Cleaned for Kids: 22 words marked out, 47 passages or lines taken out.",
+   "bytes": 413990,
+   "sha1": "9aba017ee9986bdc913d85a69696ecf5721aa0cd"
   },
   {
    "file": "eleanor-h-porter_pollyanna-grows-up.cleanshelf",
    "title": "Pollyanna Grows Up",
    "author": "Eleanor H. Porter",
    "about": "Pollyanna goes to Boston and then grows up, still playing her glad game.",
-   "cleaned_for": "Cleaned for Kids: 12 words marked out, 6 passages or lines taken out.",
-   "bytes": 622356,
-   "sha1": "3e28cbf55a7560fe4bcbd27f265382273af7c5cb"
+   "cleaned_for": "Cleaned for Kids: 13 words marked out, 6 passages or lines taken out.",
+   "bytes": 622354,
+   "sha1": "a208e532f5512e409808d4fa10a7d6ddd5dc3e85"
   },
   {
    "file": "eleanor-h-porter_pollyanna.cleanshelf",
@@ -88,9 +88,9 @@
    "title": "Little Lord Fauntleroy",
    "author": "Frances Hodgson Burnett",
    "about": "A kind-hearted American boy finds out he is heir to an English earl, and softens his grumpy grandfather.",
-   "cleaned_for": "Cleaned for Kids: 5 words marked out, 14 passages or lines taken out.",
-   "bytes": 434883,
-   "sha1": "241cbbdfe82b8f502cc9c8ef5a16c6c174e2d53b"
+   "cleaned_for": "Cleaned for Kids: 4 words marked out, 14 passages or lines taken out.",
+   "bytes": 434884,
+   "sha1": "985362234838ccb2aac64280a0347da92e130505"
   },
   {
    "file": "frances-hodgson-burnett_the-secret-garden.cleanshelf",
@@ -99,7 +99,7 @@
    "about": "A lonely, spoiled girl finds a locked-up garden and brings it, and her sickly cousin, back to life.",
    "cleaned_for": "Cleaned for Kids: 13 words marked out, 13 passages or lines taken out.",
    "bytes": 491202,
-   "sha1": "67338e38bc4c2ab05878657a2f01fca694d9b7af"
+   "sha1": "34ed40d53e58346368703a4b37efeda5f6cdae8c"
   },
   {
    "file": "gene-stratton-porter_freckles.cleanshelf",
@@ -107,8 +107,8 @@
    "author": "Gene Stratton-Porter",
    "about": "A brave orphan boy guards a great swamp full of birds and timber, and finds friends and a home.",
    "cleaned_for": "Cleaned for Kids: 44 words marked out, 57 passages or lines taken out.",
-   "bytes": 500151,
-   "sha1": "3fabcda8f838c2eaebd82dec8c9831b244c17751"
+   "bytes": 500146,
+   "sha1": "bb51eacbeb74a59f862dac99d71f9b1008a36c0b"
   },
   {
    "file": "johann-david-wyss_the-swiss-family-robinson_mary-jane-godwin_william-godwin.cleanshelf",
@@ -117,7 +117,7 @@
    "about": "A shipwrecked family builds a new life on a wild island, with a treehouse, animals and plenty of invention.",
    "cleaned_for": "Cleaned for Kids: 12 words marked out, 64 passages or lines taken out.",
    "bytes": 1224260,
-   "sha1": "1dc824f5a9bd44e6866be601f7205628caa76df3"
+   "sha1": "e91a6d5ebe9e5e0747810a4f5be60f940950f1e6"
   },
   {
    "file": "johanna-spyri_heidi_elisabeth-p-stork.cleanshelf",
@@ -142,9 +142,9 @@
    "title": "Anne of Avonlea",
    "author": "L. M. Montgomery",
    "about": "Anne becomes the village schoolteacher and helps raise a pair of lively twins.",
-   "cleaned_for": "Cleaned for Kids: 14 words marked out, 28 passages or lines taken out.",
+   "cleaned_for": "Cleaned for Kids: 13 words marked out, 28 passages or lines taken out.",
    "bytes": 544159,
-   "sha1": "db02d00879e3468c40f756aa750f3660738f6143"
+   "sha1": "3477ff699900ded6bd64e156ca9af220627ec0cd"
   },
   {
    "file": "l-m-montgomery_anne-of-green-gables.cleanshelf",
@@ -153,7 +153,7 @@
    "about": "A chatty, red-haired orphan is sent by mistake to a quiet brother and sister on Prince Edward Island.",
    "cleaned_for": "Cleaned for Kids: 17 words marked out, 37 passages or lines taken out.",
    "bytes": 641936,
-   "sha1": "fc130622f30f2be28f75648334016af05c7aeb90"
+   "sha1": "bbed12ba6878e1e9ecfc06100aec0944824596a3"
   },
   {
    "file": "l-m-montgomery_anne-of-the-island.cleanshelf",
@@ -162,7 +162,7 @@
    "about": "Anne goes off to college, makes new friends and finally works out what she wants.",
    "cleaned_for": "Cleaned for Kids: 13 words marked out, 39 passages or lines taken out.",
    "bytes": 538028,
-   "sha1": "cc9bb007cc2945e4323175c04542d9ef7a0e360e"
+   "sha1": "cbedde694a45d6f7d33f5a6b2c92af9ca74d8c0c"
   },
   {
    "file": "louisa-may-alcott_little-women.cleanshelf",
@@ -178,9 +178,9 @@
    "title": "The Prince and the Pauper",
    "author": "Mark Twain",
    "about": "A poor London boy and a young prince who look alike swap places and each learns how the other lives.",
-   "cleaned_for": "Cleaned for Kids: 19 words marked out, 59 passages or lines taken out.",
-   "bytes": 482049,
-   "sha1": "87134e6e1180bb44e54ce64828301040565d42a0"
+   "cleaned_for": "Cleaned for Kids: 14 words marked out, 59 passages or lines taken out.",
+   "bytes": 482053,
+   "sha1": "5b1e7141b91457bbc8ebadc3ff738cbd2085ee5f"
   },
   {
    "file": "robert-louis-stevenson_kidnapped.cleanshelf",
@@ -188,17 +188,17 @@
    "author": "Robert Louis Stevenson",
    "about": "Young David Balfour is tricked onto a ship and escapes across the Scottish Highlands with a daring friend.",
    "cleaned_for": "Cleaned for Kids: 18 words marked out, 92 passages or lines taken out.",
-   "bytes": 500407,
-   "sha1": "3f6465b216c464c6b874cdce5df245b83437ef7a"
+   "bytes": 500408,
+   "sha1": "8a923e49814997dc4fd8b879a49dff45e95c6033"
   },
   {
    "file": "robert-louis-stevenson_treasure-island.cleanshelf",
    "title": "Treasure Island",
    "author": "Robert Louis Stevenson",
    "about": "Young Jim Hawkins finds a treasure map and sails off with a crew that includes the pirate Long John Silver.",
-   "cleaned_for": "Cleaned for Kids: 20 words marked out, 119 passages or lines taken out.",
-   "bytes": 514737,
-   "sha1": "ba7488fd2d0c284bcf15d79380e239b6dda6fc37"
+   "cleaned_for": "Cleaned for Kids: 22 words marked out, 119 passages or lines taken out.",
+   "bytes": 514729,
+   "sha1": "f3845252eb81ba3e93c6d41c04090d10b70d7263"
   },
   {
    "file": "rudyard-kipling_captains-courageous.cleanshelf",
@@ -207,7 +207,7 @@
    "about": "A spoiled rich boy falls off an ocean liner and learns hard work on a fishing boat.",
    "cleaned_for": "Cleaned for Kids: 17 words marked out, 50 passages or lines taken out.",
    "bytes": 425448,
-   "sha1": "d9a2c35c0569b32e7b89e6f85eb8b479eccc943e"
+   "sha1": "11a04078191151e3f6181b7b47fae0a2393719c0"
   },
   {
    "file": "the-railway-children.cleanshelf",
