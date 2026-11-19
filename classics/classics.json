@@ -3,6 +3,33 @@
  "version": 1,
  "books": [
   {
+   "file": "a-a-milne_the-house-at-pooh-corner.cleanshelf",
+   "title": "The House at Pooh Corner",
+   "author": "A. A. Milne",
+   "about": "More gentle adventures with Pooh, Piglet, Eeyore and Christopher Robin, and the first game of Poohsticks.",
+   "cleaned_for": "Cleaned for Kids: nothing needed taking out.",
+   "bytes": 360662,
+   "sha1": "3a58820ed55c7500894a9adabe940715a923b721"
+  },
+  {
+   "file": "a-a-milne_winnie-the-pooh.cleanshelf",
+   "title": "Winnie-the-Pooh",
+   "author": "A. A. Milne",
+   "about": "Pooh Bear and his friends in the Hundred Acre Wood: honey, heffalumps and a very wet Piglet.",
+   "cleaned_for": "Cleaned for Kids: 1 passage or line taken out.",
+   "bytes": 388473,
+   "sha1": "601f5d255c7d97c4dd3ca4183c96adb3dbde30b9"
+  },
+  {
+   "file": "beatrix-potter_short-fiction.cleanshelf",
+   "title": "The Tales of Beatrix Potter",
+   "author": "Beatrix Potter",
+   "about": "Peter Rabbit, Jemima Puddle-Duck, Mrs. Tiggy-Winkle and friends, with Beatrix Potter's own pictures.",
+   "cleaned_for": "Cleaned for Kids: 2 words marked out, 17 passages or lines taken out.",
+   "bytes": 20237380,
+   "sha1": "71bf471691dac333baa276fd578e5360de54feac"
+  },
+  {
    "file": "black-beauty.cleanshelf",
    "title": "Black Beauty",
    "author": "Anna Sewell",
@@ -10,6 +37,33 @@
    "cleaned_for": "Cleaned for Kids: 26 words marked out, 3 lines taken out.",
    "bytes": 668221,
    "sha1": "1d0650ba2db0ab1b8d14532d65fb5ab148e9cddf"
+  },
+  {
+   "file": "dorothy-canfield-fisher_understood-betsy.cleanshelf",
+   "title": "Understood Betsy",
+   "author": "Dorothy Canfield Fisher",
+   "about": "A timid, fussed-over city girl goes to live with cousins on a Vermont farm and learns she can do things herself.",
+   "cleaned_for": "Cleaned for Kids: 13 words marked out, 7 passages or lines taken out.",
+   "bytes": 382826,
+   "sha1": "2403b0fab50ff8620f4f7d891f04d8d178205827"
+  },
+  {
+   "file": "e-nesbit_the-story-of-the-treasure-seekers.cleanshelf",
+   "title": "The Story of the Treasure Seekers",
+   "author": "E. Nesbit",
+   "about": "Six brothers and sisters try every plan they can think of to make their family's fortune.",
+   "cleaned_for": "Cleaned for Kids: 26 words marked out, 47 passages or lines taken out.",
+   "bytes": 413983,
+   "sha1": "af1107d00ddd2a01248917e41e55fb72cfff9155"
+  },
+  {
+   "file": "eleanor-h-porter_pollyanna-grows-up.cleanshelf",
+   "title": "Pollyanna Grows Up",
+   "author": "Eleanor H. Porter",
+   "about": "Pollyanna goes to Boston and then grows up, still playing her glad game.",
+   "cleaned_for": "Cleaned for Kids: 12 words marked out, 6 passages or lines taken out.",
+   "bytes": 622356,
+   "sha1": "3e28cbf55a7560fe4bcbd27f265382273af7c5cb"
   },
   {
    "file": "eleanor-h-porter_pollyanna.cleanshelf",
@@ -30,6 +84,15 @@
    "sha1": "eca64b2beff5d19d778bf3eb182baf1ea8dbebce"
   },
   {
+   "file": "frances-hodgson-burnett_little-lord-fauntleroy.cleanshelf",
+   "title": "Little Lord Fauntleroy",
+   "author": "Frances Hodgson Burnett",
+   "about": "A kind-hearted American boy finds out he is heir to an English earl, and softens his grumpy grandfather.",
+   "cleaned_for": "Cleaned for Kids: 5 words marked out, 14 passages or lines taken out.",
+   "bytes": 434883,
+   "sha1": "241cbbdfe82b8f502cc9c8ef5a16c6c174e2d53b"
+  },
+  {
    "file": "frances-hodgson-burnett_the-secret-garden.cleanshelf",
    "title": "The Secret Garden",
    "author": "Frances Hodgson Burnett",
@@ -37,6 +100,15 @@
    "cleaned_for": "Cleaned for Kids: 13 words marked out, 13 passages or lines taken out.",
    "bytes": 491202,
    "sha1": "67338e38bc4c2ab05878657a2f01fca694d9b7af"
+  },
+  {
+   "file": "gene-stratton-porter_freckles.cleanshelf",
+   "title": "Freckles",
+   "author": "Gene Stratton-Porter",
+   "about": "A brave orphan boy guards a great swamp full of birds and timber, and finds friends and a home.",
+   "cleaned_for": "Cleaned for Kids: 44 words marked out, 57 passages or lines taken out.",
+   "bytes": 500151,
+   "sha1": "3fabcda8f838c2eaebd82dec8c9831b244c17751"
   },
   {
    "file": "johann-david-wyss_the-swiss-family-robinson_mary-jane-godwin_william-godwin.cleanshelf",
@@ -66,6 +138,15 @@
    "sha1": "c66be1e5a1880feb472f217ec88f927db78abd1a"
   },
   {
+   "file": "l-m-montgomery_anne-of-avonlea.cleanshelf",
+   "title": "Anne of Avonlea",
+   "author": "L. M. Montgomery",
+   "about": "Anne becomes the village schoolteacher and helps raise a pair of lively twins.",
+   "cleaned_for": "Cleaned for Kids: 14 words marked out, 28 passages or lines taken out.",
+   "bytes": 544159,
+   "sha1": "db02d00879e3468c40f756aa750f3660738f6143"
+  },
+  {
    "file": "l-m-montgomery_anne-of-green-gables.cleanshelf",
    "title": "Anne of Green Gables",
    "author": "L. M. Montgomery",
@@ -73,6 +154,15 @@
    "cleaned_for": "Cleaned for Kids: 17 words marked out, 37 passages or lines taken out.",
    "bytes": 641936,
    "sha1": "fc130622f30f2be28f75648334016af05c7aeb90"
+  },
+  {
+   "file": "l-m-montgomery_anne-of-the-island.cleanshelf",
+   "title": "Anne of the Island",
+   "author": "L. M. Montgomery",
+   "about": "Anne goes off to college, makes new friends and finally works out what she wants.",
+   "cleaned_for": "Cleaned for Kids: 13 words marked out, 39 passages or lines taken out.",
+   "bytes": 538028,
+   "sha1": "cc9bb007cc2945e4323175c04542d9ef7a0e360e"
   },
   {
    "file": "louisa-may-alcott_little-women.cleanshelf",
@@ -84,6 +174,24 @@
    "sha1": "458153717594f485337a5d744e125b5cf832e865"
   },
   {
+   "file": "mark-twain_the-prince-and-the-pauper.cleanshelf",
+   "title": "The Prince and the Pauper",
+   "author": "Mark Twain",
+   "about": "A poor London boy and a young prince who look alike swap places and each learns how the other lives.",
+   "cleaned_for": "Cleaned for Kids: 19 words marked out, 59 passages or lines taken out.",
+   "bytes": 482049,
+   "sha1": "87134e6e1180bb44e54ce64828301040565d42a0"
+  },
+  {
+   "file": "robert-louis-stevenson_kidnapped.cleanshelf",
+   "title": "Kidnapped",
+   "author": "Robert Louis Stevenson",
+   "about": "Young David Balfour is tricked onto a ship and escapes across the Scottish Highlands with a daring friend.",
+   "cleaned_for": "Cleaned for Kids: 18 words marked out, 92 passages or lines taken out.",
+   "bytes": 500407,
+   "sha1": "3f6465b216c464c6b874cdce5df245b83437ef7a"
+  },
+  {
    "file": "robert-louis-stevenson_treasure-island.cleanshelf",
    "title": "Treasure Island",
    "author": "Robert Louis Stevenson",
@@ -91,6 +199,15 @@
    "cleaned_for": "Cleaned for Kids: 20 words marked out, 119 passages or lines taken out.",
    "bytes": 514737,
    "sha1": "ba7488fd2d0c284bcf15d79380e239b6dda6fc37"
+  },
+  {
+   "file": "rudyard-kipling_captains-courageous.cleanshelf",
+   "title": "Captains Courageous",
+   "author": "Rudyard Kipling",
+   "about": "A spoiled rich boy falls off an ocean liner and learns hard work on a fishing boat.",
+   "cleaned_for": "Cleaned for Kids: 17 words marked out, 50 passages or lines taken out.",
+   "bytes": 425448,
+   "sha1": "d9a2c35c0569b32e7b89e6f85eb8b479eccc943e"
   },
   {
    "file": "the-railway-children.cleanshelf",
