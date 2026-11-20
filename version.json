@@ -1,8 +1,8 @@
 {
-  "versionCode": 37,
-  "versionName": "0.6.25",
-  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.25/CleanRead-Mobile-0.6.25.apk",
-  "bytes": 94657573,
-  "sha256": "a77c12e057d9e1652351ce4b00faa0fc5bdad3483964cd2fa3396492fa38f024",
-  "notes": "A softer bookcase behind My books, to sit with the PC apps"
+  "versionCode": 38,
+  "versionName": "0.6.26",
+  "apk": "https://github.com/BookWorm824/cleanread-mobile/releases/download/v0.6.26/CleanRead-Mobile-0.6.26.apk",
+  "bytes": 94681449,
+  "sha256": "a010c1c84e357698d9e64855f61e14a73be88331d89ff51b644909486e5f6890",
+  "notes": "Books from home: a tablet anywhere can get new books from your always-on home computer"
 }
